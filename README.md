@@ -1,4 +1,4 @@
-# File Encryptor
+# EnCrypter
 
 This project was created as a **learning exercise** to better understand how file encryption works in practice.  
 It focuses on cryptography basics, file I/O, and secure programming concepts using Python.
