@@ -28,7 +28,7 @@ def get_confirmation(message):
 
 def main():
     print("=" * 40)
-    print("            FILE ENCRYPTOR")
+    print("            ENCRYPTER")
     print("=" * 40)
 
     while True:
